@@ -1,5 +1,4 @@
-import 'package:flutter/material.dart';
-import 'package:ejemplo3/models/category.dart';
+import '../Helpers/exportClass.dart';
 
 class Categorias extends StatelessWidget {
   Categorias({super.key});

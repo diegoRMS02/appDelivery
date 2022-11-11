@@ -1,7 +1,4 @@
-import 'dart:io';
-
-import 'package:flutter/material.dart';
-import '../models/platos.dart';
+import '../Helpers/exportClass.dart';
 
 // ignore: camel_case_types
 class platillos extends StatelessWidget {

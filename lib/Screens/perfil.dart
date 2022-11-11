@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import '../Helpers/exportClass.dart';
 
 class Perfil extends StatelessWidget {
   final buttons = ['Metodos de pago', 'Direccion', 'Pedidos', 'Soporte'];

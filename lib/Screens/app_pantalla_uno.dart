@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import '../Helpers/exportClass.dart';
 
 class PantallaUno extends StatelessWidget {
   const PantallaUno({super.key});
@@ -54,6 +54,5 @@ class PantallaUno extends StatelessWidget {
             ]))
       ]),
     );
-  
   }
 }
